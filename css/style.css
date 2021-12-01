@@ -93,3 +93,7 @@ label, input, select {
   margin-bottom: 5px;
   display: block;
 }
+
+.warning {
+  color: red;
+}
